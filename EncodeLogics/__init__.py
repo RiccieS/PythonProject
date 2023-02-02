@@ -1,3 +1,3 @@
-from .base64Logic import *
+from .base64logic import *
 from .CaesarsCipherLogic import *
 from .RSALogic import *
